@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.listar.usuario.ceiba</string>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleExecutable</key>
+    <string>${EXECUTABLE_NAME}</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Listar Usuario</string>
+	<key>CFBundleDisplayName</key>
+    <string>Listar Usuario</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleIcons</key>
+	<dict/>
+	<key>CFBundleIcons~ipad</key>
+	<dict/>
+    <key>CFBundleVersion</key>
+    <string>1.0.0</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+    <key>UIRequiredDeviceCapabilities</key>
+    <array>
+		<string>armv7</string>
+    	
+    </array>
+    <key>UISupportedInterfaceOrientations</key>
+		<array>
+		<string>UIInterfaceOrientationPortrait</string>
+
+		</array>
+    <key>UISupportedInterfaceOrientations~ipad</key>
+		<array>
+			
+		</array>
+	
+	
+	<key>CFBundleURLTypes</key><array><dict><key>CFBundleURLSchemes</key><array><string>com.listar.usuario.ceiba</string></array></dict>
+</array>
+	<key>UIAppFonts</key><array><string>B4X_FontAwesome.otf</string><string>B4X_MaterialIcons.ttf</string></array>
+	
+<key>UIUserInterfaceStyle</key><string>Light</string>
+</dict>
+</plist>

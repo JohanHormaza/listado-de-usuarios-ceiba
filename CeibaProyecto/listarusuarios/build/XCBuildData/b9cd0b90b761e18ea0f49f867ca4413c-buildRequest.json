@@ -1,0 +1,45 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "f4523551f5e3be609758c2e39823bd0bc15049270bed58e1a3bd326a70e13cbe"
+    }
+  ],
+  "containerPath" : "/Users/ionverse/Desktop/JohanServer_iOS/UploadedProjects/listarusuarios/B4iProject.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ARCHS" : "x86_64",
+          "CODE_SIGNING_REQUIRED" : "NO",
+          "CONFIGURATION_BUILD_DIR" : "/Users/ionverse/Desktop/JohanServer_iOS/UploadedProjects/listarusuarios/Payload",
+          "PRODUCT_NAME" : "Listar Usuario",
+          "SDKROOT" : "iphonesimulator15.2"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
